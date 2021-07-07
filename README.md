@@ -9,7 +9,7 @@ Flutter
 # Installing
 Clone the repository
 
-git clone https://cosmasken/numbers-memory-game-flutter/
+git clone https://cosmasken/numbers-memory-game-flutter/  
 Install dependencies, this can take a minute
 
 cd numbers-memory-game-flutter
