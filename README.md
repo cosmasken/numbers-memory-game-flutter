@@ -6,7 +6,7 @@ Android Studio
 Flutter
 
 
-#Installing
+# Installing
 Clone the repository
 
 git clone https://cosmasken/numbers-memory-game-flutter/
@@ -26,7 +26,7 @@ If you already know Flutter, then most of the information you need can be found 
 
 You can go into the lib directory and change the app and view the changes instantly using flutter hot reload.
 
-Deployment
+# Deployment
 If you are happy with the state of your app you can run
 
 flutter build apk 
