@@ -1,4 +1,5 @@
 App name: Unlock Seal
+Technical specifications:
 -Technical specifications:
 - operating system (OS): Android (flutter)
 - screen orientation: vertical
