@@ -87,3 +87,5 @@ unlocked 000")
 
 ![Game Over screen](https://github.com/cosmasken/numbers-memory-game-flutter/blob/master/gameover.PNG "Game Over screen")
 
+Please star this repository if it helps
+
