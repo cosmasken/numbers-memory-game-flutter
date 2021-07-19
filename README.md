@@ -1,3 +1,11 @@
+App name: Unlock Seal
+Technical specifications:
+- operating system (OS): Android (flutter)
+- screen orientation: vertical
+- number of screens: 6
+- number of languages: English, German, French
+
+
 1. Main Menu screen:
 On the main menu you can add a header with the name of the application (you may not
 add it) in a stony style with gold on the side.
