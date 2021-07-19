@@ -19,6 +19,8 @@ language is marked with a different flag).
 - "Language selection" button (the language changes when you click on a flag, the
 flag is changed and the current language is set)
 
+![Settings Screen](https://github.com/cosmasken/numbers-memory-game-flutter/blob/master/settings.PNG "Settings Screen")
+
 
 3. Best Result screen:
 Here the user can view his achievements for the game sessions. After each game session,
@@ -29,6 +31,9 @@ maximum number of points per game session) is placed under number 1.
 of points gained for the game sessions)
 - “Reset All Points" button (when clicked, a confirmation pops up that you agree to
 delete all current achievements in the game (yes/no))
+
+
+![Best Scores](https://github.com/cosmasken/numbers-memory-game-flutter/blob/master/bestscores.PNG "Best Scores")
 
 
 4. “Gameplay" screen:
@@ -50,6 +55,8 @@ session also ends if the timer reaches 00:00.
 - Window with timer
 - Game buttons
 
+![GamePlay](https://github.com/cosmasken/numbers-memory-game-flutter/blob/master/gamescreen.PNG "GamePlay")
+
 
 5. Pause screen:
 The standard screen that stops the current game session.
@@ -59,6 +66,8 @@ achievements for the session)
 - "Main Menu" button (when clicked, returns to the "Main Menu" screen, ends the
 current game session without saving your score)
 
+![Pause screen](https://github.com/cosmasken/numbers-memory-game-flutter/blob/master/pause.PNG "Pause screen")
+
 
 6. End of Game screen:
 At the end of the game session, the screen displays the points gained (if the best score is
@@ -67,4 +76,6 @@ achieved, this figure will be displayed on the "Best Score" screen.
 unlocked 000")
 - The "Restart" button (starts the game session over again when clicked)
 - Main Menu button (returns to the Main Menu screen when clicked)
+
+![Game Over screen](https://github.com/cosmasken/numbers-memory-game-flutter/blob/master/gameover.PNG "Game Over screen")
 
