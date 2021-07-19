@@ -14,7 +14,7 @@ add it) in a stony style with gold on the side.
 - "Best Result" button (click to take you to the "Best Result" screen)
 
 
-![Main Page](https://github.com/cosmasken/numbers-memory-game-flutter/blob/master/mainpage.PNG "Main Page")
+<center>![Main Page](https://github.com/cosmasken/numbers-memory-game-flutter/blob/master/mainpage.PNG "Main Page")</center>
 
 # 2. Settings screen:
 This screen adjusts the sound and language settings of the app. Sound is the sound
