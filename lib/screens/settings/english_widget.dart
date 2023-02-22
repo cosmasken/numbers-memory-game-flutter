@@ -21,11 +21,14 @@ class _EnglishWidgetState extends State<EnglishWidget> {
         ],
       ),
       actions: <Widget>[
-        new FlatButton(
+
+
+
+        new ElevatedButton(
           onPressed: () {
             Navigator.of(context).pop();
           },
-          textColor: Theme.of(context).primaryColor,
+          // textColor: Theme.of(context).primaryColor,
           child: const Text('Close'),
         ),
       ],
