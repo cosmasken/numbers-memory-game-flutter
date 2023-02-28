@@ -43,7 +43,7 @@ class _EnglishWidgetState extends State<EnglishWidget> {
                   Container(
                     padding: EdgeInsets.fromLTRB(20, 20, 20, 20),
                     child: Text(
-                      "UNLOCK SEAL",
+                      "GUESS AGAIN",
                       textAlign: TextAlign.center,
                       style: TextStyle(
                         decoration: TextDecoration.none,
